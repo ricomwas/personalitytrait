@@ -3,7 +3,7 @@ import Typed from 'react-typed';
 
 const About = () => {
   return (
-    <div className='text-white'>
+    <div name='about' className='text-white'>
       <div className='bg-[#000] mt-[-48x] w-full h-96 mx-auto text-center flex flex-col justify-center'>
         <p className='text-[#00df9a] font-bold p-2'>Find out your personality trait.</p>
         

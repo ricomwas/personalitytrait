@@ -2,7 +2,7 @@ import React from 'react'
 
 const Answers = () => {
   return (
-    <div className='w-full bg-white py-16 px-4'>
+    <div name='test' className='w-full bg-white py-16 px-4'>
       <div className='max-w-[1240px] mx-auto grid'>
         <div className='flex flex-col justify-center'>
 
